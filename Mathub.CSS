@@ -1,12 +1,16 @@
-ul {
+.topBar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow:hidden;
   background-color: #00B8D4;
   position: fixed;
   top: 0;
   width: 100%;
+}
+
+li{
+  float: left;
 }
 
 li {
@@ -573,3 +577,15 @@ form input[type=text], select {
 footer{
   font-size: 20px;
 }
+
+.BottomBar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00B8D4;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
