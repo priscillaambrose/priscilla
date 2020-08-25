@@ -1,0 +1,575 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00B8D4;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #1A237E;
+}
+.active {
+  background-color: #18FFFF;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height:30%;
+  border-radius: 50%;
+}
+.one {
+  color: #F5F5F5;
+  border-left: 6px solid blue;
+  background-color: #00B8D4;
+  text-align: left;
+  font-size: 30px;
+  font-family: cursive;
+  top:70px;
+}
+.two {
+  color: #F5F5F5;
+  border-left: 6px solid blue;
+  background-color: #00B8D4;
+  text-align: left;
+  font-size: 30px;
+  font-family: cursive;
+}
+.sixteen{
+  color: #F5F5F5;
+  border-left: 6px solid blue;
+  background-color: #00B8D4;
+  text-align: left;
+  font-size: 30px;
+  font-family: cursive;
+padding: 10px;
+}
+
+
+.three {
+text-align: left;
+font-family: sans-serif;
+font-size: 20px;
+text-indent: 40px;
+ word-spacing: 5px;
+ line-height: 2;
+ text-transform: capitalize;
+ font-style: italic;
+}
+.four {
+text-align: left;
+font-family: sans-serif;
+font-size: 20px;
+text-indent: 40px;
+ word-spacing: 5px;
+ line-height: 2;
+ text-transform: capitalize;
+ font-style: italic;
+}
+
+
+  .six {
+  text-align: left;
+  font-family: cursive;
+  font-size: 30px;
+   word-spacing: 5px;
+   line-height: 1.5;
+   text-transform: capitalize;
+   font-style: italic;
+   color: white;
+   text-shadow: 4px 4px 5px blue;
+   text-transform: capitalize;
+
+  }
+  .seven {
+    color: #F5F5F5;
+  border-left: 6px solid blue;
+  background-color: #00B8D4;
+  text-align: left;
+  font-size: 30px;
+  font-family: cursive;
+}
+.five {
+  color: #F5F5F5;
+  border-left: 6px solid blue;
+  background-color: #00B8D4;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+  top:70px;
+}
+.nine{
+  text-align: left;
+  font-size: 30px;
+  font-style: italic;
+  list-style-type: circle;
+  background-image: url('https://images.search.yahoo.com/images/view;_ylt=AwrJ6wqw_jNfrSwA3iyJzbkF;_ylu=X3oDMTIyMnVybDU2BHNlYwNzcgRzbGsDaW1nBG9pZANiZDIxYWEwZWE4YzA2ZDM3MDU5MTJiMjY0MGY3NGY2MgRncG9zAzQEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dgrade%2Bsix%2Bmath%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D4&w=525&h=327&imgurl=media.proprofs.com%2Fimages%2FQM%2Fuser_images%2F1754155%2F1494580420.png&rurl=https%3A%2F%2Fwww.proprofs.com%2Fquiz-school%2Fstory.php%3Ftitle%3Dmathematics-quiz-class-6&size=173.1KB&p=grade+six+math&oid=bd21aa0ea8c06d3705912b2640f74f62&fr2=piv-web&fr=mcafee&tt=Mathematics+Quiz+For+Class+6+-+ProProfs+Quiz&b=0&ni=21&no=4&ts=&tab=organic&sigr=7Nnqo.V_ZtAw&sigb=jkXb_d2e4_b8&sigi=upIeYkC3ZgeE&sigt=wGNac.UbKeBI&.crumb=5GEavPAk6aN&fr=mcafee&fr2=piv-web');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:auto;
+}
+.eleven{
+  text-align: left;
+  font-size: 25px;
+  font-style: italic;
+  list-style-type: disc;
+  text-transform: capitalize;
+  line-height: 1.5;
+  color: solid black;
+  font-family:cursive;
+}
+.ten{
+  color: #F5F5F5;
+  border-left: 6px solid blue;
+  background-color: #00B8D4;
+  text-align: left;
+  font-size: 30px;
+  font-family: cursive;
+}
+.eight {
+  color: #F5F5F5;
+  border-left: 6px solid blue;
+  background-color: #00B8D4;
+  text-align: left;
+  font-size: 30px;
+  font-family: cursive;
+  top:70px;
+}
+  iframe {
+  width: 60%;
+  height: 60%;
+  border-radius: 1px;
+  position: absolute;
+left:200px;
+top:950px;
+}
+.zero {
+    display: block;
+    width: 30%;
+    height:30%;
+    border-radius: 20%;
+    position:absolute;
+    right:70px;
+    top:525px;
+    left:800px;
+    background-position: bottom;
+  }
+  .onee{
+    display: block;
+    width: 30%;
+    height:30%;
+    border-radius: 20%;
+    position:absolute;
+    right:700px;
+    top:400px;
+    left:800px;
+    background-position: bottom;
+    float: right;
+  }
+  .twelve{
+      color: #F5F5F5;
+      border-left: 6px solid blue;
+      background-color: #00B8D4;
+      text-align: left;
+      font-size: 30px;
+      font-family: cursive;
+    }
+    .thirteen{
+      font-size: 20px;
+      font-family: cursive;
+      color: solid black;
+      text-align: center;
+      border-style: outset;
+      border-color: blue;
+  }
+    .fifteen{
+      text-transform: capitalize;
+      font-size: 35px;
+      font-family: cursive;
+      font-style: italic;
+      color: white;
+      text-shadow: 4px 4px 5px blue;
+      text-transform: capitalize;
+    }
+
+    h2{
+      font-size: 27px;
+      font-style: italic;
+      font-family: cursive;
+      color: white;
+      text-shadow: 4px 4px 5px blue;
+      text-transform:capitalize;
+    }
+
+    h3{
+      font-size: 24px;
+      font-style: italic;
+      font-family: cursive;
+      color: white;
+      text-shadow: 4px 4px 5px blue;
+      text-transform: capitalize;
+    }
+
+    h4{
+      font-size: 20px;
+      font-style: italic;
+      font-family: cursive;
+      color: white;
+      text-shadow: 4px 4px 5px blue;
+      text-transform: capitalize;
+    }
+
+
+    .button{
+      background-color: #00E5FF;
+      border:outset;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: -100px -100px;
+      cursor: pointer;
+      position: relative;
+      left:900px;
+      bottom:600px;
+      top:-50px;
+    }
+    .video{
+      width:60%;
+      height: 60%;
+      border-radius: 2%;
+      position: absolute;
+      top:350px;
+      right:200px;
+      left:100px;
+    }
+    .buttons{
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      margin: -100px -100px;
+      cursor: pointer;
+      position: absolute;
+      top:900px;
+      left:200px;
+      right:500px;
+    }
+    .body1{
+      background-color: white;
+      background-size: cover;
+      background-image:no repeat;
+    }
+
+    .html {
+    background: url(http://wallpapercave.com/wp/2Rryfhf.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
+  .html1 {
+    background-color: #E0E0E0;
+  }
+  .html2{
+    background-color: #E0E0E0;
+  }
+
+  .body1{
+    background-color: #E0E0E0;
+  }
+
+  .A{
+text-align: center;
+
+  }
+  .B{
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+  }
+.C{
+  text-align: center;
+}
+.D{
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.5;
+}
+.E{
+  text-align: center;
+}
+.F{
+  text-align: center;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.G{border-radius: 1px
+}
+.H{
+  border-radius: 1px
+}
+.I{
+  border-radius: 1px
+}
+
+.button1{
+    background-color: #00E5FF;
+    border:outset;
+    color: white;
+    padding: 25px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -100px -100px;
+    cursor: pointer;
+    position: relative;
+    left: 300px;
+    right: 500px;
+    text-shadow: 2px 2px 5px blue;
+    text-transform: uppercase;
+}
+
+  .button2{
+    background-color: #00E5FF;
+    border:outset;
+    color: white;
+    padding: 25px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -100px -100px;
+    cursor: pointer;
+    position: relative;
+    right: 500px;
+    left:600px;
+    text-shadow: 2px 2px 5px blue;
+    text-transform: uppercase;
+
+  }
+    .button3{
+      background-color: #00E5FF;
+      border:outset;
+      text-transform: uppercase;
+      color: white;
+      padding: 25px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: -100px -100px;
+      cursor: pointer;
+      position: relative;
+      right: 500px;
+      left:900px;
+      text-shadow: 2px 2px 5px blue;
+
+    }
+      .button4{
+        background-color: #00E5FF;
+        border:outset;
+        color: white;
+        padding: 25px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: -100px -100px;
+        cursor: pointer;
+        position:relative;
+        left: 850px;
+        right: 500px;
+        text-shadow: 2px 2px 5px blue;
+        text-transform: uppercase;
+      }
+  .button5{
+          background-color: #00E5FF;
+          border:outset;
+          color: white;
+          padding: 25px 25px;
+          text-align: center;
+          text-decoration: none;
+          text-shadow: 2px 2px 5px blue;
+          display: inline-block;
+          font-size: 16px;
+          margin: -80px -80px;
+          cursor: pointer;
+          position: relative;
+          left: 400px;
+          right: 500px;
+          text-transform: uppercase;
+        }
+.N{
+  border-radius: 1px;
+  position: relative;
+  left: 400px;
+  right:1000px;
+  top: 30px;
+  bottom:800px;
+  width: 650px;
+}
+.O{
+  border-radius: 1px;
+  position: relative;
+  left:-400px;
+  right:1000px;
+  top:-450px;
+  bottom:630px;
+  width:650px;
+}
+.P{
+  border-radius: 1px;
+  position: relative;
+  left: -400px;
+  right:1000px;
+  top: -330px;
+  bottom:100px;
+  width: 650px;
+}
+.Q{
+  border-radius: 1px;
+  position: relative;
+  left: 400px;
+  right:1000px;
+  top: -830px;
+  bottom:730px;
+  width: 600px;
+  height:400px;
+}
+.R{
+  text-align:left;
+  text-decoration: none;
+  text-shadow: 2px 2px 5px blue;
+  color: white;
+  font-size: 29px;
+  font-style: italic;
+  font-family: cursive;
+  border-bottom: 2px solid white;
+
+}
+.S{
+  position: relative;
+  top:-480px;
+  bottom:1000px;
+  left: 830px;
+  right:-1000px;
+  text-decoration: none;
+  text-shadow: 2px 2px 5px blue;
+  color: white;
+  font-size: 29px;
+  font-style: italic;
+  font-family: cursive;
+  border-bottom: 2px solid white;
+}
+.T{
+  position: relative;
+  top:-370px;
+  bottom: 500px;
+  text-decoration: none;
+  text-shadow: 2px 2px 5px blue;
+  color: white;
+  font-size: 29px;
+  font-style: italic;
+  font-family: cursive;
+  border-bottom: 2px solid white;
+}
+.U{
+  position: relative;
+  left:830px;
+  right: -1000px;
+  top:-300;
+  bottom: 870px;
+  text-decoration: none;
+  text-shadow: 2px 2px 5px blue;
+  color: white;
+  font-size: 29px;
+  font-style: italic;
+  font-family: cursive;
+  border-bottom: 2px solid white;
+}
+
+.contact input[type=text], select {
+  width: 160%;
+  padding: 25px 25px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid blue;
+  border-style:outset;
+  border-radius: 3px;
+  box-sizing:border-box;
+  font-size: 15px;
+  font-family:sans-serif;
+  font-style:normal;
+  background-color: off white;
+}
+.contact input[type=submit] {
+  background-color: #00E5FF;
+  color: white;
+  padding: 15px 30px;
+  border:outset;
+  border-radius: 4px;
+  cursor: pointer;
+  float: left;
+}
+.contact{
+  float: right;
+  float: left;
+  position: relative;
+  left: 500px;
+  right: 500px;
+
+}
+form{
+  float: right;
+  float: left;
+  position: relative;
+  left: 300px;
+  right: 800px;
+}
+
+form input[type=submit] {
+  background-color: #00E5FF;
+  color: white;
+  padding: 15px 30px;
+  border:outset;
+  border-radius: 4px;
+  cursor: pointer;
+  float: left;
+}
+form input[type=text], select {
+  width: 160%;
+  padding: 25px 25px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid blue;
+  border-style:ridge;
+  border-radius: 3px;
+  box-sizing:border-box;
+  font-size: 15px;
+  font-family:sans-serif;
+  font-style:normal;
+  background-color: off white;
+}
+footer{
+  font-size: 20px;
+}
